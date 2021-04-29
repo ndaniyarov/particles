@@ -1,0 +1,5 @@
+/Users/niginadaniyarova/Desktop/cs312/particles/build/CMakeFiles/demo.dir
+/Users/niginadaniyarova/Desktop/cs312/particles/build/CMakeFiles/rebuild_cache.dir
+/Users/niginadaniyarova/Desktop/cs312/particles/build/CMakeFiles/edit_cache.dir
+/Users/niginadaniyarova/Desktop/cs312/particles/build/CMakeFiles/confetti.dir
+/Users/niginadaniyarova/Desktop/cs312/particles/build/CMakeFiles/billboard.dir
