@@ -363,6 +363,7 @@ CMakeFiles/billboard.dir/src/renderer.cpp.o: ../external/include/glm/vector_rela
 CMakeFiles/billboard.dir/src/renderer.cpp.o: ../src/AGL.h
 CMakeFiles/billboard.dir/src/renderer.cpp.o: ../src/AGLM.h
 CMakeFiles/billboard.dir/src/renderer.cpp.o: ../src/image.h
+CMakeFiles/billboard.dir/src/renderer.cpp.o: ../src/particlesystem.h
 CMakeFiles/billboard.dir/src/renderer.cpp.o: ../src/renderer.cpp
 CMakeFiles/billboard.dir/src/renderer.cpp.o: ../src/renderer.h
 

@@ -34,6 +34,7 @@ namespace agl {
 
       std::vector<Particle> mParticles;
       GLuint mTexture;
+      GLuint mTexture1;
       BlendMode mBlendMode;
       static Renderer theRenderer;
    };

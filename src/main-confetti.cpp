@@ -118,6 +118,3 @@ int main(int argc, char** argv)
    glfwTerminate();
    return 0;
 }
-
-
-

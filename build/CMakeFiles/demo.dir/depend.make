@@ -664,6 +664,7 @@ CMakeFiles/demo.dir/src/renderer.cpp.o: ../external/include/glm/vector_relationa
 CMakeFiles/demo.dir/src/renderer.cpp.o: ../src/AGL.h
 CMakeFiles/demo.dir/src/renderer.cpp.o: ../src/AGLM.h
 CMakeFiles/demo.dir/src/renderer.cpp.o: ../src/image.h
+CMakeFiles/demo.dir/src/renderer.cpp.o: ../src/particlesystem.h
 CMakeFiles/demo.dir/src/renderer.cpp.o: ../src/renderer.cpp
 CMakeFiles/demo.dir/src/renderer.cpp.o: ../src/renderer.h
 

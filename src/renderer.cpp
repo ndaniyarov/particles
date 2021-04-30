@@ -1,6 +1,7 @@
 #include "renderer.h"
 #include <fstream>
 #include <sstream>
+#include "particlesystem.h"
 
 using namespace agl;
 using namespace glm;
@@ -114,8 +115,12 @@ void Renderer::begin(GLuint texIf, BlendMode mode)
    glUniformMatrix4fv(glGetUniformLocation(mShaderId, "uVP"), 1, GL_FALSE, &mvp[0][0]);
    glUniform3f(glGetUniformLocation(mShaderId, "uCameraPos"), mLookfrom[0], mLookfrom[1], mLookfrom[2]);
 
-   GLuint locId = glGetUniformLocation(mShaderId, "image");
-   glUniform1i(locId, 0);
+   glUniform1i(glGetUniformLocation(mShaderId, "image"), 0);
+   //glUniform1i(glGetUniformLocation(mShaderId, "image2"), 1);
+
+
+    //GLuint locId1 = glGetUniformLocation(mShaderId, "image2");
+   //glUniform1i(locId, 1);
 
    glBindVertexArray(mVaoId);
    glEnableVertexAttribArray(0); // 0 -> Sending VertexPositions to array #0 in the active shader

@@ -33,6 +33,11 @@ void ParticleSystem::init(int size)
 
 void ParticleSystem::draw() 
 {
+   //glActiveTexture(GL_TEXTURE0);
+   //glBindTexture(GL_TEXTURE_2D, mTexture);
+
+   //glActiveTexture(GL_TEXTURE1);
+   //glBindTexture(GL_TEXTURE_2D, mTexture1);
    theRenderer.begin(mTexture, mBlendMode);
    for (int i = 0; i < mParticles.size(); i++)
    {

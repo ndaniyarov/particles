@@ -818,23 +818,29 @@ random
 cmath
 -
 
-/Users/niginadaniyarova/Desktop/cs312/particles/src/confetti.cpp
+/Users/niginadaniyarova/Desktop/cs312/particles/src/image.h
+iostream
+-
+AGLM.h
+/Users/niginadaniyarova/Desktop/cs312/particles/src/AGLM.h
+
+/Users/niginadaniyarova/Desktop/cs312/particles/src/myparticlesystem.cpp
 AGL.h
 /Users/niginadaniyarova/Desktop/cs312/particles/src/AGL.h
 AGLM.h
 /Users/niginadaniyarova/Desktop/cs312/particles/src/AGLM.h
 cmath
 -
-confetti.h
-/Users/niginadaniyarova/Desktop/cs312/particles/src/confetti.h
+myparticlesystem.h
+/Users/niginadaniyarova/Desktop/cs312/particles/src/myparticlesystem.h
 
-/Users/niginadaniyarova/Desktop/cs312/particles/src/confetti.h
+/Users/niginadaniyarova/Desktop/cs312/particles/src/myparticlesystem.h
 particlesystem.h
 /Users/niginadaniyarova/Desktop/cs312/particles/src/particlesystem.h
 
-/Users/niginadaniyarova/Desktop/cs312/particles/src/image.h
-iostream
--
+/Users/niginadaniyarova/Desktop/cs312/particles/src/particlesystem.cpp
+particlesystem.h
+/Users/niginadaniyarova/Desktop/cs312/particles/src/particlesystem.h
 AGLM.h
 /Users/niginadaniyarova/Desktop/cs312/particles/src/AGLM.h
 
@@ -847,6 +853,16 @@ renderer.h
 /Users/niginadaniyarova/Desktop/cs312/particles/src/renderer.h
 vector
 -
+
+/Users/niginadaniyarova/Desktop/cs312/particles/src/renderer.cpp
+renderer.h
+/Users/niginadaniyarova/Desktop/cs312/particles/src/renderer.h
+fstream
+-
+sstream
+-
+particlesystem.h
+/Users/niginadaniyarova/Desktop/cs312/particles/src/particlesystem.h
 
 /Users/niginadaniyarova/Desktop/cs312/particles/src/renderer.h
 AGL.h

@@ -664,6 +664,7 @@ CMakeFiles/confetti.dir/src/renderer.cpp.o: ../external/include/glm/vector_relat
 CMakeFiles/confetti.dir/src/renderer.cpp.o: ../src/AGL.h
 CMakeFiles/confetti.dir/src/renderer.cpp.o: ../src/AGLM.h
 CMakeFiles/confetti.dir/src/renderer.cpp.o: ../src/image.h
+CMakeFiles/confetti.dir/src/renderer.cpp.o: ../src/particlesystem.h
 CMakeFiles/confetti.dir/src/renderer.cpp.o: ../src/renderer.cpp
 CMakeFiles/confetti.dir/src/renderer.cpp.o: ../src/renderer.h
 
