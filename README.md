@@ -48,3 +48,10 @@ particles/build $ ../bin/demo
 ## Results
 
 TODO: Show your work
+Screen Shot 2021-04-29 at 10.25.52 PM![image](https://user-images.githubusercontent.com/55757317/116641687-3d354d00-a93b-11eb-99cd-1b82e4d17be4.png)
+
+![image](https://user-images.githubusercontent.com/55757317/116641813-7b327100-a93b-11eb-8db8-d86695959117.png)
+
+![image](https://user-images.githubusercontent.com/55757317/116642282-76ba8800-a93c-11eb-8798-09adb3b00708.png)
+
+
